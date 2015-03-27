@@ -1,0 +1,2 @@
+modprobe b43
+wifi-menu
