@@ -1,1 +1,1 @@
-python2 -u /home/oper/dan/WeatherAlert/alert.py > /home/oper/dan/log &
+python2 -u /home/dan/dev/WeatherAlert/alert.py > /home/dan/log &
